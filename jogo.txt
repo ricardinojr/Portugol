@@ -1,0 +1,88 @@
+P:Alface
+D:Pertence a familia Asteracea
+D:Verde
+D:Originaria do leste do Mediterraneo 
+D:Com o tempo ficam escuras
+D:Comida
+D:96 porcento e agua
+D:Verdura
+D:Baixo teor calorico
+D:Pode ser lisa ou crespa
+D:Grande quantidade de fibras
+P:Abelha 
+D:Animal invertebrados 
+D:Inseto
+D:Voam
+D:Seis patas
+D:Vivem em colonia
+D:Obedecem a rainha 
+D:Ferrao
+D:Responsaveis pelo polinizacao
+D:Produzem Mel
+D:Listradas
+P:Aviao
+D:Tem asas
+D:Grande Velocidade
+D:Um veiculo
+D:E de metal
+D:Tem piloto 
+D:Tem rodas
+D:Tem passageiros
+D:Criacao de Santos Dumont
+D:Caixa preta
+D:Tem radar
+P:Bode
+D:Nome masculino
+D:Animal mamifero
+D:Alimenta-se de grama e arbustos
+D:Existem especies selvagens e domesticadas
+D:Produz la
+D:Chifres
+D:Sua carne e comida pelo homem
+D:Vivem em rebanhos 
+D:Seu couro e usado na fabricacao de luvas e calcados
+D:Macho da cabra
+P:Bola
+D:As criancas amam
+D:Objeto
+D:Diferentes tamanhos
+D:Brinquedo
+D:Foi criada por volta de 2500 a 3000 a.C
+D:Usado em varios esportes
+D:Pode ser oca ou solida
+D:Normalmente tem formato esferico
+D:Pode ser acertada, chutada, ou arremessada
+D:Material usado no esporte mais praticado do pais
+P:Hipopotamo
+D:Mamifero
+D:Animal terrestre mais perigoso
+D:Onivoro
+D:E da Africa
+D:Corpo quase sem pelos
+D:1,5 de altura
+D:Pesado
+D: Sedentarios
+D:Habita margens de rios e pantanos
+D:E um dos protagonistas do desenho Madagascar
+P:Espaguete
+D:Comida
+D:Consumida em forma de fios
+D:Massa
+D:Normalmente acompanhado de molho
+D:Fonte de carboidrato
+D:Cozido 
+D:Famoso na Italia
+D:Formato cilindrico
+D:Feito de farinha de trigo
+D:Pode ser acompanhado de queijo
+P:Havai
+D:Um estado
+D:Um arquipelago
+D:Conhecido pelas paisagens tropicais
+D:Pacifico central 
+D:Onde o cantor Bruno Mars nasceu
+D:Pertence aos EUA
+D:Uma republica desde 1894
+D:Existe o esteriotipo que usam sutia de coco la
+D:Inspirou o nome de uma marca de chinelos
+D:Lilo & Stitch
